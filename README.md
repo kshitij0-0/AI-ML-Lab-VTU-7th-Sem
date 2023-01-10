@@ -19,55 +19,42 @@ with the training examples.
 ### 4.
 
 ```
-Build an Artificial Neural Network by implementing the
-Backpropagation algorithm and test the same using
-appropriatedatasets.
+Write a program to demonstrate the working of the decision tree based
+ID3 algorithm. Use an Appropriate data set for building the decision tree
+and apply this knowledge to classify a new sample.
 ```
 ### 5.
 
 ```
-Writeaprogramtoimplementthe naïveBayesianclassifier
-forasampletrainingdatasetstoredasa.CSVfile.Compute
-theaccuracyoftheclassifier,consideringfewtestdatasets.
+Build an Artificial Neural Network by implementing the Back propagation
+algorithm and test the Same using appropriate data sets.
 ```
 ### 6.
 
 ```
-Assumingasetofdocumentsthatneedtobeclassified,use
-the NaïveBayesianClassifier modeltoperformthistask.
-Built-inJavaclasses/APIcanbeusedtowritetheprogram.
-Calculatetheaccuracy,precision,andrecallforyourdataset.
+Write a program to implement the naïve Bayesian classifier for a sample training
+data set stored as a .CSV file. Compute the accuracy of the classifier, 
+considering few test data sets
 ```
 ### 7.
 
 ```
-Write a program to construct a Bayesian network
-consideringmedicaldata.Usethismodeltodemonstratethe
-diagnosisofheartpatientsusingstandardHeartDiseaseData
-Set.YoucanuseJava/PythonMLlibraryclasses/API.
+Apply EM algorithm to cluster a set of data stored in a .CSV file.
+Use the same data set for clustering using k-Means algorithm. 
+Compare the results of these two algorithms and comment on the quality of clustering.
+You can add Java/Python ML library classes/API in the program.
 ```
 ### 8.
 
 ```
-Apply EMalgorithm toclusterasetofdatastoredina.CSV
-file.Use the same data set forclusteringusing k-Means
-algorithm .Comparetheresultsofthesetwoalgorithmsand
-comment on the quality of clustering. You can add
-Java/PythonMLlibraryclasses/APIintheprogram.
+Write a program to implement k-Nearest Neighbor algorithm to classify 
+the iris data set. Print Both correct and wrong predictions. 
+Java/Python ML library classes can be used for this problem.
 ```
 ### 9.
 
 ```
-Write a program to implement k-Nearest Neighbour
-algorithm toclassifytheirisdataset.Printbothcorrectand
-wrongpredictions. Java/PythonMLlibraryclasses canbe
-usedforthisproblem..
+Implement the non-parametric Locally Weighted Regression algorithm
+in order to fit data points. Select appropriate data set for 
+your experiment and draw graphs
 ```
-### 10.
-
-```
-Implement the non-parametric Locally Weighted
-Regression algorithm in order to fit data points. Select
-appropriatedatasetforyourexperimentanddrawgraphs.
-```
-
